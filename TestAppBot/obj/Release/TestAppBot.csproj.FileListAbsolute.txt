@@ -1,0 +1,139 @@
+C:\Users\RTX-3090\Downloads\Final - Copy\TestAppBot\TestAppBot\bin\Release\TestAppBot.exe
+C:\Users\RTX-3090\Downloads\Final - Copy\TestAppBot\TestAppBot\bin\Release\BouncyCastle.Crypto.dll
+C:\Users\RTX-3090\Downloads\Final - Copy\TestAppBot\TestAppBot\bin\Release\FireSharp.dll
+C:\Users\RTX-3090\Downloads\Final - Copy\TestAppBot\TestAppBot\bin\Release\InstagramApiSharp.dll
+C:\Users\RTX-3090\Downloads\Final - Copy\TestAppBot\TestAppBot\bin\Release\Newtonsoft.Json.dll
+C:\Users\RTX-3090\Downloads\Final - Copy\TestAppBot\TestAppBot\bin\Release\TestAppBot.exe.config
+C:\Users\RTX-3090\Downloads\Final - Copy\TestAppBot\TestAppBot\bin\Release\TestAppBot.pdb
+C:\Users\RTX-3090\Downloads\Final - Copy\TestAppBot\TestAppBot\bin\Release\FirebaseAPI.dll
+C:\Users\RTX-3090\Downloads\Final - Copy\TestAppBot\TestAppBot\bin\Release\Microsoft.Threading.Tasks.dll
+C:\Users\RTX-3090\Downloads\Final - Copy\TestAppBot\TestAppBot\bin\Release\Microsoft.Threading.Tasks.Extensions.Desktop.dll
+C:\Users\RTX-3090\Downloads\Final - Copy\TestAppBot\TestAppBot\bin\Release\Microsoft.Threading.Tasks.Extensions.dll
+C:\Users\RTX-3090\Downloads\Final - Copy\TestAppBot\TestAppBot\bin\Release\System.Net.Http.Extensions.dll
+C:\Users\RTX-3090\Downloads\Final - Copy\TestAppBot\TestAppBot\bin\Release\System.Net.Http.Formatting.dll
+C:\Users\RTX-3090\Downloads\Final - Copy\TestAppBot\TestAppBot\bin\Release\System.Net.Http.Primitives.dll
+C:\Users\RTX-3090\Downloads\Final - Copy\TestAppBot\TestAppBot\bin\Release\BouncyCastle.Crypto.xml
+C:\Users\RTX-3090\Downloads\Final - Copy\TestAppBot\TestAppBot\bin\Release\Microsoft.Threading.Tasks.xml
+C:\Users\RTX-3090\Downloads\Final - Copy\TestAppBot\TestAppBot\bin\Release\Microsoft.Threading.Tasks.Extensions.xml
+C:\Users\RTX-3090\Downloads\Final - Copy\TestAppBot\TestAppBot\bin\Release\Microsoft.Threading.Tasks.Extensions.Desktop.xml
+C:\Users\RTX-3090\Downloads\Final - Copy\TestAppBot\TestAppBot\bin\Release\Newtonsoft.Json.xml
+C:\Users\RTX-3090\Downloads\Final - Copy\TestAppBot\TestAppBot\bin\Release\System.Net.Http.Extensions.xml
+C:\Users\RTX-3090\Downloads\Final - Copy\TestAppBot\TestAppBot\bin\Release\System.Net.Http.Formatting.xml
+C:\Users\RTX-3090\Downloads\Final - Copy\TestAppBot\TestAppBot\bin\Release\System.Net.Http.Primitives.xml
+C:\Users\RTX-3090\Downloads\Final - Copy\TestAppBot\TestAppBot\obj\Release\TestAppBot.csproj.App.config
+C:\Users\RTX-3090\Downloads\Final - Copy\TestAppBot\TestAppBot\obj\Release\TestAppBot.csproj.AssemblyReference.cache
+C:\Users\RTX-3090\Downloads\Final - Copy\TestAppBot\TestAppBot\obj\Release\TestAppBot.csproj.SuggestedBindingRedirects.cache
+C:\Users\RTX-3090\Downloads\Final - Copy\TestAppBot\TestAppBot\obj\Release\TestAppBot.APP.resources
+C:\Users\RTX-3090\Downloads\Final - Copy\TestAppBot\TestAppBot\obj\Release\TestAppBot.IG_BOT.resources
+C:\Users\RTX-3090\Downloads\Final - Copy\TestAppBot\TestAppBot\obj\Release\TestAppBot.notify.resources
+C:\Users\RTX-3090\Downloads\Final - Copy\TestAppBot\TestAppBot\obj\Release\TestAppBot.Properties.Resources.resources
+C:\Users\RTX-3090\Downloads\Final - Copy\TestAppBot\TestAppBot\obj\Release\SocialMediaBot.RegisterForm.resources
+C:\Users\RTX-3090\Downloads\Final - Copy\TestAppBot\TestAppBot\obj\Release\TestAppBot.csproj.GenerateResource.cache
+C:\Users\RTX-3090\Downloads\Final - Copy\TestAppBot\TestAppBot\obj\Release\TestAppBot.csproj.CoreCompileInputs.cache
+C:\Users\RTX-3090\Downloads\Final - Copy\TestAppBot\TestAppBot\obj\Release\TestAppBot.csproj.CopyComplete
+C:\Users\RTX-3090\Downloads\Final - Copy\TestAppBot\TestAppBot\obj\Release\TestAppBot.exe
+C:\Users\RTX-3090\Downloads\Final - Copy\TestAppBot\TestAppBot\obj\Release\TestAppBot.pdb
+C:\Users\Taha Ahmed\Downloads\Compressed\TestAppBot-20220720T182730Z-001\TestAppBot\TestAppBot\bin\Release\TestAppBot.exe.config
+C:\Users\Taha Ahmed\Downloads\Compressed\TestAppBot-20220720T182730Z-001\TestAppBot\TestAppBot\bin\Release\TestAppBot.exe
+C:\Users\Taha Ahmed\Downloads\Compressed\TestAppBot-20220720T182730Z-001\TestAppBot\TestAppBot\bin\Release\TestAppBot.pdb
+C:\Users\Taha Ahmed\Downloads\Compressed\TestAppBot-20220720T182730Z-001\TestAppBot\TestAppBot\bin\Release\BouncyCastle.Crypto.dll
+C:\Users\Taha Ahmed\Downloads\Compressed\TestAppBot-20220720T182730Z-001\TestAppBot\TestAppBot\bin\Release\FirebaseAPI.dll
+C:\Users\Taha Ahmed\Downloads\Compressed\TestAppBot-20220720T182730Z-001\TestAppBot\TestAppBot\bin\Release\FireSharp.dll
+C:\Users\Taha Ahmed\Downloads\Compressed\TestAppBot-20220720T182730Z-001\TestAppBot\TestAppBot\bin\Release\InstagramApiSharp.dll
+C:\Users\Taha Ahmed\Downloads\Compressed\TestAppBot-20220720T182730Z-001\TestAppBot\TestAppBot\bin\Release\Microsoft.Threading.Tasks.dll
+C:\Users\Taha Ahmed\Downloads\Compressed\TestAppBot-20220720T182730Z-001\TestAppBot\TestAppBot\bin\Release\Microsoft.Threading.Tasks.Extensions.Desktop.dll
+C:\Users\Taha Ahmed\Downloads\Compressed\TestAppBot-20220720T182730Z-001\TestAppBot\TestAppBot\bin\Release\Microsoft.Threading.Tasks.Extensions.dll
+C:\Users\Taha Ahmed\Downloads\Compressed\TestAppBot-20220720T182730Z-001\TestAppBot\TestAppBot\bin\Release\Newtonsoft.Json.dll
+C:\Users\Taha Ahmed\Downloads\Compressed\TestAppBot-20220720T182730Z-001\TestAppBot\TestAppBot\bin\Release\System.Net.Http.Extensions.dll
+C:\Users\Taha Ahmed\Downloads\Compressed\TestAppBot-20220720T182730Z-001\TestAppBot\TestAppBot\bin\Release\System.Net.Http.Formatting.dll
+C:\Users\Taha Ahmed\Downloads\Compressed\TestAppBot-20220720T182730Z-001\TestAppBot\TestAppBot\bin\Release\System.Net.Http.Primitives.dll
+C:\Users\Taha Ahmed\Downloads\Compressed\TestAppBot-20220720T182730Z-001\TestAppBot\TestAppBot\bin\Release\BouncyCastle.Crypto.xml
+C:\Users\Taha Ahmed\Downloads\Compressed\TestAppBot-20220720T182730Z-001\TestAppBot\TestAppBot\bin\Release\Microsoft.Threading.Tasks.xml
+C:\Users\Taha Ahmed\Downloads\Compressed\TestAppBot-20220720T182730Z-001\TestAppBot\TestAppBot\bin\Release\Microsoft.Threading.Tasks.Extensions.xml
+C:\Users\Taha Ahmed\Downloads\Compressed\TestAppBot-20220720T182730Z-001\TestAppBot\TestAppBot\bin\Release\Microsoft.Threading.Tasks.Extensions.Desktop.xml
+C:\Users\Taha Ahmed\Downloads\Compressed\TestAppBot-20220720T182730Z-001\TestAppBot\TestAppBot\bin\Release\Newtonsoft.Json.xml
+C:\Users\Taha Ahmed\Downloads\Compressed\TestAppBot-20220720T182730Z-001\TestAppBot\TestAppBot\bin\Release\System.Net.Http.Extensions.xml
+C:\Users\Taha Ahmed\Downloads\Compressed\TestAppBot-20220720T182730Z-001\TestAppBot\TestAppBot\bin\Release\System.Net.Http.Formatting.xml
+C:\Users\Taha Ahmed\Downloads\Compressed\TestAppBot-20220720T182730Z-001\TestAppBot\TestAppBot\bin\Release\System.Net.Http.Primitives.xml
+C:\Users\Taha Ahmed\Downloads\Compressed\TestAppBot-20220720T182730Z-001\TestAppBot\TestAppBot\obj\Release\TestAppBot.csproj.App.config
+C:\Users\Taha Ahmed\Downloads\Compressed\TestAppBot-20220720T182730Z-001\TestAppBot\TestAppBot\obj\Release\TestAppBot.csproj.AssemblyReference.cache
+C:\Users\Taha Ahmed\Downloads\Compressed\TestAppBot-20220720T182730Z-001\TestAppBot\TestAppBot\obj\Release\TestAppBot.APP.resources
+C:\Users\Taha Ahmed\Downloads\Compressed\TestAppBot-20220720T182730Z-001\TestAppBot\TestAppBot\obj\Release\TestAppBot.IG_BOT.resources
+C:\Users\Taha Ahmed\Downloads\Compressed\TestAppBot-20220720T182730Z-001\TestAppBot\TestAppBot\obj\Release\TestAppBot.notify.resources
+C:\Users\Taha Ahmed\Downloads\Compressed\TestAppBot-20220720T182730Z-001\TestAppBot\TestAppBot\obj\Release\TestAppBot.Properties.Resources.resources
+C:\Users\Taha Ahmed\Downloads\Compressed\TestAppBot-20220720T182730Z-001\TestAppBot\TestAppBot\obj\Release\SocialMediaBot.RegisterForm.resources
+C:\Users\Taha Ahmed\Downloads\Compressed\TestAppBot-20220720T182730Z-001\TestAppBot\TestAppBot\obj\Release\TestAppBot.csproj.GenerateResource.cache
+C:\Users\Taha Ahmed\Downloads\Compressed\TestAppBot-20220720T182730Z-001\TestAppBot\TestAppBot\obj\Release\TestAppBot.csproj.CoreCompileInputs.cache
+C:\Users\Taha Ahmed\Downloads\Compressed\TestAppBot-20220720T182730Z-001\TestAppBot\TestAppBot\obj\Release\TestAppBot.csproj.CopyComplete
+C:\Users\Taha Ahmed\Downloads\Compressed\TestAppBot-20220720T182730Z-001\TestAppBot\TestAppBot\obj\Release\TestAppBot.exe
+C:\Users\Taha Ahmed\Downloads\Compressed\TestAppBot-20220720T182730Z-001\TestAppBot\TestAppBot\obj\Release\TestAppBot.pdb
+C:\Users\RTX-3090\Downloads\InstaBot\TestAppBot\TestAppBot\bin\Release\TestAppBot.exe.config
+C:\Users\RTX-3090\Downloads\InstaBot\TestAppBot\TestAppBot\bin\Release\TestAppBot.exe
+C:\Users\RTX-3090\Downloads\InstaBot\TestAppBot\TestAppBot\bin\Release\TestAppBot.pdb
+C:\Users\RTX-3090\Downloads\InstaBot\TestAppBot\TestAppBot\bin\Release\BouncyCastle.Crypto.dll
+C:\Users\RTX-3090\Downloads\InstaBot\TestAppBot\TestAppBot\bin\Release\FirebaseAPI.dll
+C:\Users\RTX-3090\Downloads\InstaBot\TestAppBot\TestAppBot\bin\Release\FireSharp.dll
+C:\Users\RTX-3090\Downloads\InstaBot\TestAppBot\TestAppBot\bin\Release\InstagramApiSharp.dll
+C:\Users\RTX-3090\Downloads\InstaBot\TestAppBot\TestAppBot\bin\Release\Microsoft.Threading.Tasks.dll
+C:\Users\RTX-3090\Downloads\InstaBot\TestAppBot\TestAppBot\bin\Release\Microsoft.Threading.Tasks.Extensions.Desktop.dll
+C:\Users\RTX-3090\Downloads\InstaBot\TestAppBot\TestAppBot\bin\Release\Microsoft.Threading.Tasks.Extensions.dll
+C:\Users\RTX-3090\Downloads\InstaBot\TestAppBot\TestAppBot\bin\Release\Newtonsoft.Json.dll
+C:\Users\RTX-3090\Downloads\InstaBot\TestAppBot\TestAppBot\bin\Release\System.Net.Http.Extensions.dll
+C:\Users\RTX-3090\Downloads\InstaBot\TestAppBot\TestAppBot\bin\Release\System.Net.Http.Formatting.dll
+C:\Users\RTX-3090\Downloads\InstaBot\TestAppBot\TestAppBot\bin\Release\System.Net.Http.Primitives.dll
+C:\Users\RTX-3090\Downloads\InstaBot\TestAppBot\TestAppBot\bin\Release\BouncyCastle.Crypto.xml
+C:\Users\RTX-3090\Downloads\InstaBot\TestAppBot\TestAppBot\bin\Release\Microsoft.Threading.Tasks.xml
+C:\Users\RTX-3090\Downloads\InstaBot\TestAppBot\TestAppBot\bin\Release\Microsoft.Threading.Tasks.Extensions.xml
+C:\Users\RTX-3090\Downloads\InstaBot\TestAppBot\TestAppBot\bin\Release\Microsoft.Threading.Tasks.Extensions.Desktop.xml
+C:\Users\RTX-3090\Downloads\InstaBot\TestAppBot\TestAppBot\bin\Release\Newtonsoft.Json.xml
+C:\Users\RTX-3090\Downloads\InstaBot\TestAppBot\TestAppBot\bin\Release\System.Net.Http.Extensions.xml
+C:\Users\RTX-3090\Downloads\InstaBot\TestAppBot\TestAppBot\bin\Release\System.Net.Http.Formatting.xml
+C:\Users\RTX-3090\Downloads\InstaBot\TestAppBot\TestAppBot\bin\Release\System.Net.Http.Primitives.xml
+C:\Users\RTX-3090\Downloads\InstaBot\TestAppBot\TestAppBot\obj\Release\TestAppBot.csproj.App.config
+C:\Users\RTX-3090\Downloads\InstaBot\TestAppBot\TestAppBot\obj\Release\TestAppBot.csproj.AssemblyReference.cache
+C:\Users\RTX-3090\Downloads\InstaBot\TestAppBot\TestAppBot\obj\Release\TestAppBot.csproj.SuggestedBindingRedirects.cache
+C:\Users\RTX-3090\Downloads\InstaBot\TestAppBot\TestAppBot\obj\Release\TestAppBot.APP.resources
+C:\Users\RTX-3090\Downloads\InstaBot\TestAppBot\TestAppBot\obj\Release\TestAppBot.IG_BOT.resources
+C:\Users\RTX-3090\Downloads\InstaBot\TestAppBot\TestAppBot\obj\Release\TestAppBot.notify.resources
+C:\Users\RTX-3090\Downloads\InstaBot\TestAppBot\TestAppBot\obj\Release\TestAppBot.Properties.Resources.resources
+C:\Users\RTX-3090\Downloads\InstaBot\TestAppBot\TestAppBot\obj\Release\SocialMediaBot.RegisterForm.resources
+C:\Users\RTX-3090\Downloads\InstaBot\TestAppBot\TestAppBot\obj\Release\TestAppBot.csproj.GenerateResource.cache
+C:\Users\RTX-3090\Downloads\InstaBot\TestAppBot\TestAppBot\obj\Release\TestAppBot.csproj.CoreCompileInputs.cache
+C:\Users\RTX-3090\Downloads\InstaBot\TestAppBot\TestAppBot\obj\Release\TestAppBot.csproj.CopyComplete
+C:\Users\RTX-3090\Downloads\InstaBot\TestAppBot\TestAppBot\obj\Release\TestAppBot.exe
+C:\Users\RTX-3090\Downloads\InstaBot\TestAppBot\TestAppBot\obj\Release\TestAppBot.pdb
+C:\Users\RTX-3090\Downloads\InstaBot (1)\InstaBot\TestAppBot\TestAppBot\bin\Release\TestAppBot.exe.config
+C:\Users\RTX-3090\Downloads\InstaBot (1)\InstaBot\TestAppBot\TestAppBot\bin\Release\TestAppBot.exe
+C:\Users\RTX-3090\Downloads\InstaBot (1)\InstaBot\TestAppBot\TestAppBot\bin\Release\TestAppBot.pdb
+C:\Users\RTX-3090\Downloads\InstaBot (1)\InstaBot\TestAppBot\TestAppBot\bin\Release\BouncyCastle.Crypto.dll
+C:\Users\RTX-3090\Downloads\InstaBot (1)\InstaBot\TestAppBot\TestAppBot\bin\Release\FirebaseAPI.dll
+C:\Users\RTX-3090\Downloads\InstaBot (1)\InstaBot\TestAppBot\TestAppBot\bin\Release\FireSharp.dll
+C:\Users\RTX-3090\Downloads\InstaBot (1)\InstaBot\TestAppBot\TestAppBot\bin\Release\InstagramApiSharp.dll
+C:\Users\RTX-3090\Downloads\InstaBot (1)\InstaBot\TestAppBot\TestAppBot\bin\Release\Microsoft.Threading.Tasks.dll
+C:\Users\RTX-3090\Downloads\InstaBot (1)\InstaBot\TestAppBot\TestAppBot\bin\Release\Microsoft.Threading.Tasks.Extensions.Desktop.dll
+C:\Users\RTX-3090\Downloads\InstaBot (1)\InstaBot\TestAppBot\TestAppBot\bin\Release\Microsoft.Threading.Tasks.Extensions.dll
+C:\Users\RTX-3090\Downloads\InstaBot (1)\InstaBot\TestAppBot\TestAppBot\bin\Release\Newtonsoft.Json.dll
+C:\Users\RTX-3090\Downloads\InstaBot (1)\InstaBot\TestAppBot\TestAppBot\bin\Release\System.Net.Http.Extensions.dll
+C:\Users\RTX-3090\Downloads\InstaBot (1)\InstaBot\TestAppBot\TestAppBot\bin\Release\System.Net.Http.Formatting.dll
+C:\Users\RTX-3090\Downloads\InstaBot (1)\InstaBot\TestAppBot\TestAppBot\bin\Release\System.Net.Http.Primitives.dll
+C:\Users\RTX-3090\Downloads\InstaBot (1)\InstaBot\TestAppBot\TestAppBot\bin\Release\BouncyCastle.Crypto.xml
+C:\Users\RTX-3090\Downloads\InstaBot (1)\InstaBot\TestAppBot\TestAppBot\bin\Release\Microsoft.Threading.Tasks.xml
+C:\Users\RTX-3090\Downloads\InstaBot (1)\InstaBot\TestAppBot\TestAppBot\bin\Release\Microsoft.Threading.Tasks.Extensions.xml
+C:\Users\RTX-3090\Downloads\InstaBot (1)\InstaBot\TestAppBot\TestAppBot\bin\Release\Microsoft.Threading.Tasks.Extensions.Desktop.xml
+C:\Users\RTX-3090\Downloads\InstaBot (1)\InstaBot\TestAppBot\TestAppBot\bin\Release\Newtonsoft.Json.xml
+C:\Users\RTX-3090\Downloads\InstaBot (1)\InstaBot\TestAppBot\TestAppBot\bin\Release\System.Net.Http.Extensions.xml
+C:\Users\RTX-3090\Downloads\InstaBot (1)\InstaBot\TestAppBot\TestAppBot\bin\Release\System.Net.Http.Formatting.xml
+C:\Users\RTX-3090\Downloads\InstaBot (1)\InstaBot\TestAppBot\TestAppBot\bin\Release\System.Net.Http.Primitives.xml
+C:\Users\RTX-3090\Downloads\InstaBot (1)\InstaBot\TestAppBot\TestAppBot\obj\Release\TestAppBot.csproj.App.config
+C:\Users\RTX-3090\Downloads\InstaBot (1)\InstaBot\TestAppBot\TestAppBot\obj\Release\TestAppBot.csproj.AssemblyReference.cache
+C:\Users\RTX-3090\Downloads\InstaBot (1)\InstaBot\TestAppBot\TestAppBot\obj\Release\TestAppBot.csproj.SuggestedBindingRedirects.cache
+C:\Users\RTX-3090\Downloads\InstaBot (1)\InstaBot\TestAppBot\TestAppBot\obj\Release\TestAppBot.APP.resources
+C:\Users\RTX-3090\Downloads\InstaBot (1)\InstaBot\TestAppBot\TestAppBot\obj\Release\TestAppBot.IG_BOT.resources
+C:\Users\RTX-3090\Downloads\InstaBot (1)\InstaBot\TestAppBot\TestAppBot\obj\Release\TestAppBot.notify.resources
+C:\Users\RTX-3090\Downloads\InstaBot (1)\InstaBot\TestAppBot\TestAppBot\obj\Release\TestAppBot.Properties.Resources.resources
+C:\Users\RTX-3090\Downloads\InstaBot (1)\InstaBot\TestAppBot\TestAppBot\obj\Release\SocialMediaBot.RegisterForm.resources
+C:\Users\RTX-3090\Downloads\InstaBot (1)\InstaBot\TestAppBot\TestAppBot\obj\Release\TestAppBot.csproj.GenerateResource.cache
+C:\Users\RTX-3090\Downloads\InstaBot (1)\InstaBot\TestAppBot\TestAppBot\obj\Release\TestAppBot.csproj.CoreCompileInputs.cache
+C:\Users\RTX-3090\Downloads\InstaBot (1)\InstaBot\TestAppBot\TestAppBot\obj\Release\TestAppBot.csproj.CopyComplete
+C:\Users\RTX-3090\Downloads\InstaBot (1)\InstaBot\TestAppBot\TestAppBot\obj\Release\TestAppBot.exe
+C:\Users\RTX-3090\Downloads\InstaBot (1)\InstaBot\TestAppBot\TestAppBot\obj\Release\TestAppBot.pdb
